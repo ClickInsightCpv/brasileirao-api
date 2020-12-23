@@ -1,4 +1,4 @@
-package cbr.com.clickinsight.brasileiraoapi;
+package br.com.clickinsight.brasileiraoapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
